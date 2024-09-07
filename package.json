@@ -1,12 +1,11 @@
 {
-  "name": "quiz-app",
-  "version": "6.0.0",
+  "name": "quest",
+  "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Leonardo Belluzzi",
-    "url": "https://leonardobelluzzi.github.io"
+    "name": "Bruna"
   },
-  "homepage": "https://leonardobelluzzi.github.io/projeto-engtres/",
+  "homepage": "https://brunatb.github.io/quest/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
